@@ -3,3 +3,12 @@
   background-position: center;
   background-size: cover;
 }
+
+.main {
+  height: 1300px;
+}
+@media (max-width: 1200px) {
+  .main {
+    height: 1500px;
+  }
+}
